@@ -22,5 +22,3 @@ The application was designed to be simple, readable, and portable, following bas
   - `DETAIL`
 
 ---
-
-## Folder Structure
